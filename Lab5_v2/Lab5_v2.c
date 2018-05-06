@@ -13,6 +13,7 @@ int main(void) {
 	char save[10];
 	sprintf(save, "%07d", stra);
 	int c = strlen(save);
+	// Comment! 
 	printf("%d\n", c);
 	assert(c == 7);
 	if ((a > 0)) {
