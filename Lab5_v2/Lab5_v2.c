@@ -14,6 +14,7 @@ int main(void) {
 	sprintf(save, "%07d", stra);
 	int c = strlen(save);
 	// Comment! 
+	// Comment 2
 	printf("%d\n", c);
 	assert(c == 7);
 	if ((a > 0)) {
